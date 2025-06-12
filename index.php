@@ -59,7 +59,7 @@
    
 
     <footer>
-        <p>&copy; 2025 LIFE IS BINARY</p>
+        <p>&copy; READ BOOKS FOR YOU KNOWLEDGE</p>
     </footer>
 
 </body>
