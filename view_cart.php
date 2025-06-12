@@ -13,7 +13,7 @@ session_start();
 <body>
 
     <header>
-        <h1>Your Shopping Cart</h1>
+        <h1>Shopping Cart</h1>
         <nav>
             <ul>
                 <li><a href="index.php">Continue Shopping</a></li>
